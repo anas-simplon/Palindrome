@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1709769343 source:c:\users\simplon\desktop\algo\palindrome\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1709769695 source:c:\users\simplon\desktop\algo\palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
